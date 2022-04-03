@@ -1,0 +1,219 @@
+{
+    "PC":[
+    {  
+        "nombre": "weird west",
+        "descripcion":"Descubre una reimaginación de fantasía oscura del Lejano Oeste donde los hombres de la ley y los pistoleros comparten la frontera con criaturas fantásticas. Viaja a través de la historia de un grupo de héroes atípicos, convertidos en leyenda por las decisiones que tomas en una tierra implacable. Cada viaje es único y se adapta a las acciones realizadas: una serie de aventuras de alto riesgo donde todo cuenta y el mundo reacciona a las decisiones que toma. Forme una pandilla o aventúrese solo en los confines de otro mundo del Extraño Oeste y haga suya cada leyenda",
+        "lanzamiento":"31/03/2022",
+        "categoria":"PC",
+        "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1648941981/Videojuegos%20/weird-west_hc22ig.webp"
+
+    },
+    {
+        "nombre":"Tom Clancy’s Rainbow Six® Extraction",
+        "descripcion":"Durante décadas, Team Rainbow ha sido el escudo contra las peores amenazas globales imaginables. Ahora, nos enfrentamos al mayor terror jamás visto: una invasión alienígena letal y mutante. Deberá adaptar constantemente su estrategia para mantenerse a la vanguardia. • Forma equipo en un FPS táctico cooperativo de 1 a 3 jugadores • 90 armas y dispositivos, 18 operadores personalizables, 12 mapas a gran escala, 13 tipos de misión, 13 arquetipos de enemigos y contenido gratuito posterior al lanzamiento •",
+        "lanzamiento":"",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648942321/Videojuegos%20/rainbowsix_ktd6pc.jpg"
+    },
+    {
+        "nombre":"Minecraft",
+        "descripcion":"Minecraft Preview solo está disponible para los jugadores que poseen Minecraft. ¡La vista previa te permite experimentar las próximas características inéditas de Minecraft, nuevas del equipo de desarrollo de Mojang Studios! Tenga en cuenta la siguiente información sobre Minecraft Preview",
+        "lanzamiento":"",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648942652/Videojuegos%20/minecraft_qbf20i.jpg"
+    },
+    {
+        "nombre":"Kraken Academy",
+        "descripcion":"¡Haz amigos, espíritus libres y asegúrate de que el mundo no se acabe! Bienvenido a Kraken Academy, un sueño de fiebre tecnicolor que, por razones legales, solo puede describirse como técnicamente una escuela. Une fuerzas con un kraken mágico para manipular un bucle de tiempo y salvar el mundo. Kraken Academy no es una escuela secundaria ordinaria.",
+        "lanzamiento":"21/03/2022",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648943223/Videojuegos%20/kraken_okgfmx.jpg"
+    },
+    {
+        "nombre":"Alice: Madness Returns",
+        "descripcion":"Alice: Madness Returns es un videojuego para Microsoft Windows, Xbox 360 y PlayStation 3 lanzado el 14 de junio de 2011 en Norteamérica​ y el 17 de junio de 2011 en Europa.​ Es una secuela del videojuego de Mac y PC American McGee's Alice lanzado en el año 2000.        ",
+        "lanzamiento":"21/03/2011",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648943474/Videojuegos%20/Alice-madness-returns_q9dxo7.webp"
+    },
+    {
+        "nombre":"Aliens: Fireteam Elite",
+        "descripcion":"Ambientado en el icónico universo Alien, Aliens: Fireteam Elite es un shooter cooperativo de supervivencia en tercera persona que sumerge a tu escuadra de marines endurecidos en una lucha desesperada para contener la amenaza Xenomorph en evolución.",
+        "lanzamiento":"23/8/2021",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648943696/Videojuegos%20/aliens_g8gup9.jpg"
+    },
+    {
+        "nombre":"Battlefield 3 Premium Edition",
+        "descripcion":"Entre los títulos más vendidos en la historia de EA, Battlefield 3 ha vendido más de 15 millones de unidades desde su lanzamiento. Abalado por la crítica por su convincente modo para un solo jugador, intensas misiones cooperativas y su adictivo modo multijugador de clase mundial,  Battlefield 3 ha ganado más de 130 premios a nivel mundial.",
+        "lanzamiento":"16/08/2012",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648943990/Videojuegos%20/battlefield_geomp5.jpg"
+    },
+    {
+        "nombre":"Destiny 2",
+        "descripcion":"Sumérgete en el mundo de Destiny 2 para explorar los misterios del sistema solar y experimentar el combate de disparos en primera persona. Desbloquea poderosas habilidades elementales y recolecta equipo único para personalizar la apariencia y el estilo de juego de tu Guardián. Disfruta de la historia cinemática de Destiny 2, misiones cooperativas desafiantes y una variedad de modos PvP solo o con amigos.",
+        "lanzamiento":"10/1/2019",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648944362/Videojuegos%20/destiny_wbyfmg.jpg"
+    },
+    {
+        "nombre":"Empire of Sin",
+        "descripcion":"Empire of Sin es un nuevo juego de estrategia presentado por Romero Games y Paradox Interactive que lo coloca en el corazón del despiadado submundo criminal de la era de la Prohibición de Chicago en la década de 1920. Ponte en la piel de uno de los catorce jefes de la mafia reales e históricamente inspirados, como Al Capone, Stephanie St. Clair o Goldie Garneau, y reúne una pandilla irregular, construye y administra tu imperio criminal y defiende tu territorio de las pandillas rivales.",
+        "lanzamiento":"17/03/2021",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648944450/Videojuegos%20/empire_d4zafz.jpg"
+    },
+    {
+        "nombre":"FINAL FANTASY XIII",
+        "descripcion":"Este juego requiere la instalación de DirectX End-User Runtimes (junio de 2010). Dependiendo de su sistema, es posible que no se instale correctamente. En este caso, descárguelo e instálelo desde el siguiente enlace. https://www.microsoft.com/en-us/download/details.aspx?id=8109 Si no puede acceder a la URL anterior, comuníquese con el soporte de Microsoft Store. ¡Final Fantasy XIII ya ha llegado a Windows 10!",
+        "lanzamiento":"9/1/2021",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648944682/Videojuegos%20/fantasy_wu1xhr.jpg q"
+    },
+    {
+        "nombre":"Forza Horizon 4",
+        "descripcion":"Por primera vez en el género de las carreras y la conducción, experimenta temporadas dinámicas en un mundo abierto compartido. Explore hermosos paisajes, coleccione más de 450 autos y conviértase en una superestrella de Horizon en la Gran Bretaña histórica.*",
+        "lanzamiento":"",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648945080/Videojuegos%20/forza_ioajmr.jpg"
+    },
+    {
+        "nombre":"Valorant",
+        "descripcion":"Valorant es un videojuego de disparos en primera persona multijugador gratuito desarrollado y publicado por Riot Games. El juego se anunció por primera vez con el nombre en clave Project A en octubre de 2019. Fue lanzado para Microsoft Windows el 2 de junio de 2020 después de su beta cerrada ",
+        "lanzamiento":"07/04/2020",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648945246/Videojuegos%20/valorant_cki6f1.webp"
+    },
+    {
+        "nombre":"League of Legends",
+        "descripcion":"League of Legends (también conocido por sus siglas LoL) es un videojuego del género multijugador de arena de batalla en línea (MOBA) y deporte electrónico el cual fue desarrollado por Riot Games para Microsoft Windows y OS X y para consolas digitales. En un principio los servidores estaban alojados en la empresa GOA y fue vendida a la empresa china Tencent Holdings Limited.",
+        "lanzamiento":"27/10/2009",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648945391/Videojuegos%20/LOL_aseyxu.jpg"
+    },
+    {
+        "nombre":"Grand Theft Auto V",
+        "descripcion":"Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción-aventura de mundo abierto desarrollado por el estudio Rockstar North y distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas PlayStation 3 y Xbox 360.",
+        "lanzamiento":"10/10/2013",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648945599/Videojuegos%20/GTAV_kipi1c.jpg"
+    },
+    {
+        "nombre":"Apex Legends",
+        "descripcion":"es un juego de disparos de héroes Battle Royale gratuito desarrollado por Respawn Entertainment y publicado por Electronic Arts . Fue lanzado para Microsoft Windows , PlayStation 4 y Xbox One en febrero de 2019, para Nintendo Switch en marzo de 2021 y para PlayStation 5 y Xbox Series X/S en marzo de 2022. Una versión móvil del juego especialmente diseñada para pantallas táctiles titulada Apex También se ha anunciado Legends Mobile ",
+        "lanzamiento":"04/02/2019",
+        "categoria":"PC",
+        "imagen":"https://res.cloudinary.com/dgzfc4clj/image/upload/v1648945674/Videojuegos%20/apex_kym28k.jpg"
+    }
+
+],
+
+    "xbox-one":  [
+      {
+        "nombre":"ARK",
+          "descripcion": "¡Experimenta todo lo que la franquicia ARK tiene para ofrecer en esta colección definitiva! Doma y monta criaturas primitivas mientras exploras tierras salvajes, forma equipo con otros jugadores para competir en épicas batallas tribales y viaja juntos en la mayor aventura llena de dinosaurios de todos los tiempos.con cada desafío de jefe de la franquicia!",
+          "lanzamiento":"5/26/2021",
+          "categoria":"xbox-one",
+          "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945163/videojuegos-json-server/ark-xboxOne_sjjemy.png"
+      },
+      {
+        "nombre":"FIFA 20",
+        "descripcion":"Con la tecnología de Frostbite™, EA SPORTS™ FIFA 20 para Xbox One da vida a los dos lados de The World's Game: el prestigio del escenario profesional y una auténtica experiencia de fútbol callejero totalmente nueva en EA SPORTS VOLTA. FIFA 20 innova en todo el juego, FOOTBALL INTELLIGENCE desbloquea una plataforma sin precedentes para el realismo del juego, FIFA Ultimate Team™ ofrece más formas de crear el equipo de tus sueños y EA SPORTS VOLTA devuelve el juego a la calle, con una forma auténtica de fútbol en espacios reducidos.",
+        "lanzamiento":"",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945173/videojuegos-json-server/fifa_kpw1ii.jpg"
+      },
+      {
+        "nombre":"Secret Neighbor",
+        "descripcion":"",
+        "lanzamiento":"10/23/2019",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945197/videojuegos-json-server/secret-neighbord_bppzs5.jpg"
+      },
+      {
+        "nombre":"Ryse",
+        "descripcion":"En medio del caos del Imperio Romano tardío, conviértete en el soldado Marius Titus y emprende una peligrosa campaña para vengar la muerte de tu familia y defender el honor de Roma. En el modo Gladiador, ingresa al Coliseo y lucha por la gloria, el espectáculo y el entretenimiento de las multitudes. La Edición Legendaria incluye contenido completo del Pase de temporada, tres mapas adicionales optimizados para el máximo desafío en el modo Solo y un nuevo aspecto de legionario.",
+        "lanzamiento":"6/10/2014",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945195/videojuegos-json-server/Ryse_whiesu.jpg"
+      },
+      {
+        "nombre":"Sniper Elite",
+        "descripcion":"Descubre una libertad de francotirador inigualable en el juego de disparos de la Segunda Guerra Mundial más grande y avanzado jamás construido. Experimenta combates tácticos en tercera persona, opciones de juego y disparos épicos a lo largo de niveles gigantescos mientras liberas a la Italia en tiempos de guerra de las garras del fascismo. ",
+        "lanzamiento":"13/02/2017",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945199/videojuegos-json-server/sniper_eq4hc5.jpg"
+      },
+      {
+        "nombre":"Power Rangers",
+        "descripcion":"Es hora de morfina! Power Rangers finalmente llega a Xbox One. Enfréntate a los Rangers actuales y clásicos como nunca antes en batallas de parejas de 3 contra 3. Una versión moderna de la franquicia de 25 años, Power Rangers: Battle for the Grid muestra impresionantes gráficos y detalles vívidos.",
+        "lanzamiento":"25/03/2019",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945193/videojuegos-json-server/power-rangers_ho9hap.jpg"
+      },
+      {
+        "nombre":"Need for Speed",
+        "descripcion":"Conviértete en el icono supremo de la cultura automovilística urbana actual en Need for Speed™, con Five Ways to Play y un enorme mundo abierto para competir y explorar desde el anochecer hasta el amanecer. • CINCO FORMAS DE JUGAR: gana reputación y domina las cinco formas de jugar (velocidad, estilo, construcción, tripulación y fuera de la ley) para ganar a tu manera. ",
+        "lanzamiento":"11/2/2015",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945187/videojuegos-json-server/need-for-speed_vwjsri.jpg"
+      },
+      {
+        "nombre":"NBA 19",
+        "descripcion":"El juego contiene compras dentro del juego NBA LIVE 19 redefine la forma en que juegas un partido de baloncesto. 1v1 Everywhere con Real Player Motion te da control en cada posesión, brindándote la capacidad de cambiar el impulso en cualquier juego y dominar a tu oponente.",
+        "lanzamiento":"9/6/2018",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945182/videojuegos-json-server/nba_pa6o4v.jpg"
+      },
+      {
+        "nombre":"My Friend Pedro",
+        "descripcion":"My Friend Pedro es un ballet violento sobre la amistad, la imaginación y la lucha de un hombre para destruir a cualquiera en su camino a instancias de un plátano inteligente. El uso estratégico de la puntería dividida, la cámara lenta y la ventana con estilo crean una secuencia de acción sensacional tras otra en una batalla explosiva a través del inframundo violento. ",
+        "lanzamiento":"4/12/2019",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945180/videojuegos-json-server/my-friend-pedro_fgspbw.jpg"
+      },
+      {
+        "nombre":"It Takes Two",
+        "descripcion":"It Takes Two utiliza la tecnología Smart Delivery: compre el juego una vez y juegue en Xbox One o Xbox Series X|S. Embárcate en el viaje más loco de tu vida en It Takes Two, una aventura de plataformas que cambia el género y creada exclusivamente para el modo cooperativo. Invite a un amigo a unirse gratis con Friend's Pass* y trabajen juntos en una gran variedad de desafíos de juego alegremente perturbadores. Juega como la pareja enfrentada Cody y May, dos humanos convertidos en muñecos por un hechizo mágico.",
+        "lanzamiento":"25/03/2021",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945178/videojuegos-json-server/It-takes-two_zequad.jpg"
+      },
+      {
+        "nombre":"Halo 5",
+        "descripcion":"Halo 5: Guardians ofrece experiencias multijugador épicas que abarcan múltiples modos, herramientas de construcción de niveles con todas las funciones y un nuevo capítulo en la saga Master Chief. Y ahora, con Xbox One X, los jugadores pueden experimentar imágenes mejoradas, hasta una resolución de 4K, más detalles visuales y una fidelidad gráfica mejorada que hace que el juego se vea mejor que nunca, todo mientras mantiene una velocidad constante de 60 FPS para disfrutar de la experiencia de juego más fluida posible.",
+        "lanzamiento":"26/10/2015",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945176/videojuegos-json-server/halo-5_hmmuzx.jpg"
+      },
+      {
+        "nombre":"San Andreas",
+        "descripcion":"Experimente el clásico de gran éxito, actualizado para una nueva generación con mejoras generales que incluyen una nueva y brillante iluminación y mejoras ambientales, con texturas de alta resolución, mayor distancia de dibujo, controles y orientación estilo Grand Theft Auto V, y mucho más.",
+        "lanzamiento":"",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945175/videojuegos-json-server/grand-theft-auto_joorzj.jpg"
+      },
+      {
+        "nombre":"STAR WARS",
+        "descripcion":"Sumérgete en tus fantasías de batalla de STAR WARS™. Sintiendo el siniestro ruido sordo de un AT-AT pisoteando la tundra helada de Hoth. Las fuerzas rebeldes disparan blásters mientras las motos deslizadoras imperiales se deslizan por los frondosos bosques de Endor. Intensos combates aéreos entre escuadrones de Alas-X y cazas TIE llenan los cielos. Sumérgete en las batallas épicas de STAR WARS™ con las que siempre has soñado y crea nuevos momentos heroicos propios en STAR WARS™ Battlefront™. Este título solo está disponible en EA Access.",
+        "lanzamiento":"",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945201/videojuegos-json-server/start-wars_xukacb.jpg"
+      },
+      {
+        "nombre":"Los Sims",
+        "descripcion":"Nueva apariencia, el mismo gran contenido ¡Desata tu imaginación y crea un mundo único de Sims que sea una expresión tuya! Explore y personalice cada detalle, desde Sims hasta casas, y mucho más. Elige cómo se ven, actúan y visten los Sims, luego decide cómo vivirán cada día. Diseñe y construya hogares increíbles para cada familia, luego decórelos con sus muebles y decoración favoritos. Viaja a diferentes vecindarios donde puedes conocer a otros Sims y aprender sobre sus vidas. ",
+        "lanzamiento":"16/11/2017",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945203/videojuegos-json-server/The-Sims_n1jgk0.jpg"
+      },
+      {
+        "nombre":"Wolfenstein",
+        "descripcion":"Europa, 1960. La marea de la Segunda Guerra Mundial ha cambiado utilizando un nuevo tipo de tecnología avanzada y misteriosa. Utilizando una fuerza e intimidación implacables, una potencia mundial despiadada ha puesto de rodillas incluso a las naciones más poderosas. El régimen ahora domina el mundo con mano de hierro.",
+        "lanzamiento":"19/05/2014",
+        "categoria":"xbox-one",
+        "imagen":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945206/videojuegos-json-server/Wolfenstein_r90oru.jpg"
+      }  
+    ]
+  }

@@ -29,8 +29,8 @@
                   <a class="nav-link" href="./user.html"><b>Usuarios</b></a>
                 </li>
               </ul>
-              <form class="d-flex">
-                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <form id="form-search" class="d-flex">
+                <input id="input-search" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-success" type="submit">Search</button>
               </form>
             </div>
@@ -51,10 +51,10 @@
              <div class="col mt-3">
                  <h2 class="subtitle1 div-categorias">Categoría de Videojuegos </h2>
              </div>
-                 <div class="row">
+                 <div class="row" id="category">
           
                  <div class="col-6 mx-1">
-                     <button width="150px" id="btnCategory1" class="btn btn-dark">
+                     <button width="150px" class="btn btn-dark" id="btn-xbox">
                          <img src="https://res.cloudinary.com/dgzfc4clj/image/upload/v1648954686/Videojuegos%20/images_hcvkl2.png"
                                      width="100px">
                                      XBOX GAMES 
@@ -62,7 +62,7 @@
                  </div>
                  
                  <div class="col-5 mx-1">
-                     <button width="150px" id="btnCategory2" class="btn btn-dark">
+                     <button width="150px" class="btn btn-dark" id="btn-pc">
                          <img src="https://res.cloudinary.com/dgzfc4clj/image/upload/v1648958339/Videojuegos%20/pc_uluyqc.jpg "
                          width="100px"> PC GAMES 
                       
@@ -73,7 +73,21 @@
          </div>
                 </div>
     </center>
- </header>
+  </header>
+  <div class="">
+
+    <div id="container-vj">
+      <!-- Listado de Vj imprimido desde el javascript -->
+    </div>
+
+    <div id="modal">
+      <!-- Detalle de cada Vj imprimido desde el javascript -->
+    </div>
+
+    <div id="filter-search">
+      <!-- Filltrado de cada Vj pintado desde el javascript -->
+    </div>
+  </div>
 <script src = "scripts/script.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>

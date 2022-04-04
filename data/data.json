@@ -119,6 +119,20 @@
       "lanzamiento": "04/02/2019",
       "categoria": "PC",
       "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1648945674/Videojuegos%20/apex_kym28k.jpg"
+    },
+    {
+      "nombre": "blur",
+      "description": "Juego de cards",
+      "date": "2022-04-21",
+      "category": "PC",
+      "id": 16
+    },
+    {
+      "nombre": "Hallo Reachhhh",
+      "description": "undefined",
+      "date": "undefined",
+      "category": "PC",
+      "id": 17
     }
   ],
   "xbox-one": [
@@ -243,6 +257,10 @@
       "imagen": "https://res.cloudinary.com/dxhgejzwc/image/upload/v1648945206/videojuegos-json-server/Wolfenstein_r90oru.jpg"
     },
     {
+      "nombre": "Hallo Reach",
+      "description": "Buen juego",
+      "date": "24/12/2022",
+      "category": "xbox-one",
       "id": 31
     }
   ]

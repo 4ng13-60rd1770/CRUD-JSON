@@ -22,16 +22,21 @@
             <div class="offcanvas-body">
               <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                 <li class="nav-item">
+<<<<<<< HEAD
                   <a class="nav-link" aria-current="page" href="./index"><b>Videojuegos</b></a>
+=======
+                  <a class="nav-link" aria-current="page" href="./index.html"><b>Videojuegos</b></a>
+>>>>>>> 36dd92406ca336ff06c0a9177c9f293b9d361545
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="./user.html"><b>Usuarios</b></a>
                 </li>
               </ul>
               <form class="d-flex">
-                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-success" type="submit">Search</button>
+                <input id="form-search" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <!-- <button class="btn btn-success" type="submit">Search</button> -->
               </form>
+              <div id="contain-search"></div>
             </div>
           </div>
         </div>
@@ -40,7 +45,7 @@
 <br>
 <main>
 <center>
-    <form class="formulario ">
+    <form id="formulario">
         <div class="col-md-4">
           <label for="name" class="form-label">Nombre de Videojuego</label>
           <input type="text" class="form-control" id="name"  required>
@@ -53,15 +58,15 @@
  
         <div class="col-md-6">
           <label for="date" class="form-label">Fecha de Lanzamiento</label>
-          <input type="date" class="form-control" id="date">
+          <input type="text" class="form-control" id="date">
 
         </div>
         <div class="col-md-3">
           <label for="categoria" class="form-label" >Categoría</label>
           <select class="form-select" id="category" required>
             <option selected disabled value="">Seleccione una Categoría</option>
-            <option>XBOX</option>
-            <option>PC</option>
+            <option id="PC">xbox-one</option>
+            <option id="xbox-one">PC</option>
           </select>
           <br>
         <div class="col-lg-12">

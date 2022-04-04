@@ -2,7 +2,7 @@ let btnGuardar = document.getElementById('btnGuardar');
 let btnEditar = document.getElementById('btnEditar');
 let btnEliminar = document.getElementById('btnEliminar');
 let formulario = document.getElementById('formulario');
-const play= ' http://localhost:4000/PC'
+const play= ' http://localhost:3000/PC'
 
 
 

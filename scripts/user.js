@@ -31,6 +31,8 @@ formulario.addEventListener('submit', async (e)=>{
     console.log(data)
 })
 
+
+
 btnEliminar.addEventListener('click', async() =>{
     let idEliminar = document.getElementById('id').value
 

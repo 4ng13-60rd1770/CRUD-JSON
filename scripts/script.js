@@ -57,6 +57,9 @@ function createElemen(){
   // AGREGANDO CONTENEDOR PADRE (cardGroup) AL DOM 
   containerVj.appendChild(cardGoup)
 }
+
+
+
 /////////////----------------- FUNCION SE EJECUTA AL CARGAR LA PAGINA -----------////////////
 document.addEventListener("DOMContentLoaded", async() => {
   // Peticion videojuegos pc 

@@ -60,11 +60,11 @@ function createElemen(){
 /////////////----------------- FUNCION SE EJECUTA AL CARGAR LA PAGINA -----------////////////
 document.addEventListener("DOMContentLoaded", async() => {
   // Peticion videojuegos pc 
-    const responsePc = await fetch("http://localhost:4000/pc");
+    const responsePc = await fetch("http://localhost:3000/pc");
     const dataPc = await responsePc.json();
 
   // Peticion videojuegos xboxOne 
-    const responseXbox = await fetch("http://localhost:4000/xbox-one");
+    const responseXbox = await fetch("http://localhost:3000/xbox-one");
     const dataXbox = await responseXbox.json();
     
 
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", async() => {
       cardImgTop.style.width = "200px"
       cardImgTop.classList.add("my-5");
       cardImgTop.classList.add("ms-4");
-      cardImgTop.setAttribute("src", arrTotal[i].imagen);
+      cardImgTop.setAttribute("src", arrTotal[y].imagen);
 
       //  
       const cardBody = document.createElement("div");
@@ -200,7 +200,7 @@ containerVj.addEventListener("click", (e)=>{
   // CREANDO CONTENIDO DEL MODAL 
   // creando etiqueta contenedor (div)
   const divCard = document.createElement("div");
-  console.log(divCard)
+  // console.log(divCard)
     // Creando etiqueta h3 
   const h3Name = document.createElement("h3");
   h3Name.textContent = searchDetail.nombre;

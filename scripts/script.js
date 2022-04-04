@@ -272,52 +272,52 @@ category.addEventListener("click", (e) => {
 
     filterPc.forEach(element => {
 
-// Card-group --> div 
-const cardGoup = document.createElement("div");
-cardGoup.classList.add("card-group");
-// card --> div
-const card = document.createElement("div");
-card.classList.add("card")
-// img --> img
-const cardImgTop = document.createElement("img");
-// cardImgTop.classList.add("card-img-top");
-// cardImgTop.classList.add("w-100");
-cardImgTop.style.width = "200px"
-cardImgTop.classList.add("my-5");
-cardImgTop.classList.add("ms-4");
-cardImgTop.setAttribute("src", element.imagen);
+      // Card-group --> div 
+      const cardGoup = document.createElement("div");
+      cardGoup.classList.add("card-group");
+      // card --> div
+      const card = document.createElement("div");
+      card.classList.add("card")
+      // img --> img
+      const cardImgTop = document.createElement("img");
+      // cardImgTop.classList.add("card-img-top");
+      // cardImgTop.classList.add("w-100");
+      cardImgTop.style.width = "200px"
+      cardImgTop.classList.add("my-5");
+      cardImgTop.classList.add("ms-4");
+      cardImgTop.setAttribute("src", element.imagen);
 
-// card-body --> div
-const cardBody = document.createElement("div");
-cardBody.classList.add("card-body");
+      // card-body --> div
+      const cardBody = document.createElement("div");
+      cardBody.classList.add("card-body");
 
-// cardTitle --> h5
-const cardTitle = document.createElement("h5");
-cardTitle.classList.add("card-title");
-cardTitle.textContent = element.nombre;
+      // cardTitle --> h5
+      const cardTitle = document.createElement("h5");
+      cardTitle.classList.add("card-title");
+      cardTitle.textContent = element.nombre;
 
-// btnSuccess --> button
-const btnSuccess = document.createElement("button");
-btnSuccess.classList.add("btn");
-btnSuccess.classList.add("btn-success");
-btnSuccess.textContent = "Más detalles";
-btnSuccess.setAttribute("id", element.id);
-btnSuccess.setAttribute("data-bs-target", "#staticBackdrop");
-btnSuccess.setAttribute("data-bs-toggle", "modal");
+      // btnSuccess --> button
+      const btnSuccess = document.createElement("button");
+      btnSuccess.classList.add("btn");
+      btnSuccess.classList.add("btn-success");
+      btnSuccess.textContent = "Más detalles";
+      btnSuccess.setAttribute("id", element.id);
+      btnSuccess.setAttribute("data-bs-target", "#staticBackdrop");
+      btnSuccess.setAttribute("data-bs-toggle", "modal");
 
-// Agregando card a cardGroup
-cardGoup.appendChild(card);
+      // Agregando card a cardGroup
+      cardGoup.appendChild(card);
 
-// Agregando cardtitle y cardBody a card
-card.appendChild(cardImgTop);
-card.appendChild(cardBody);
+      // Agregando cardtitle y cardBody a card
+      card.appendChild(cardImgTop);
+      card.appendChild(cardBody);
 
-// Agregando cardTitle y btnSuccess a cardBody
-cardBody.appendChild(cardTitle);
-cardBody.appendChild(btnSuccess);
+      // Agregando cardTitle y btnSuccess a cardBody
+      cardBody.appendChild(cardTitle);
+      cardBody.appendChild(btnSuccess);
 
-// AGREGANDO CONTENEDOR PADRE (cardGroup) AL DOM 
-containerVj.appendChild(cardGoup)
+      // AGREGANDO CONTENEDOR PADRE (cardGroup) AL DOM 
+      containerVj.appendChild(cardGoup)
 
     });
 
